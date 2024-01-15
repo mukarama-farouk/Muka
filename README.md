@@ -1,6 +1,6 @@
 # Hi! I'm Mukaramatu Umar Farouk 👋🏽
 ---
-I work as a Software Engineer 👩‍💻, I'm from Ghana and I'm looking for remote opportunities in the field.
+I'm from Ghana and I'm looking for remote opportunities in the field of software engineering.
 --
 🔎 Searching for remote SE opportunities.
 
